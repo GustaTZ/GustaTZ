@@ -1,6 +1,6 @@
 ### Opa!! Eu sou o Gustavo Torres
 
-- 🔭 Estudando JS, CSS, HTML, IOT, Arquitetura de Computadores, Empreendedorismo
+- 🔭 Estudando JS, CSS, HTML, IOT, Arquitetura de Computadores e Empreendedorismo
 - 📫 Contate-me no email: gu.torresalmeida@gmail.com
 - 😄 Pronomes: Ele/Dele
 
