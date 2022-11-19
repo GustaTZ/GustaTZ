@@ -1,6 +1,6 @@
 ### Opa!! Eu sou o Gustavo Torres
 
-- 🔭 Estudando Java, C, Flutter, Dart e Criação de APPS (Android Studio), Conhecimento em JS, CSS, HTML, IOT, Arquitetura de Computadores e Empreendedorismo
+- 🔭 DEV FRONT-END, mas estudando Java, C e Flutter
 - 📫 Contate-me no email: gu.torresalmeida@gmail.com
 - 😄 Pronomes: Ele/Dele
 
