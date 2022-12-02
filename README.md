@@ -12,7 +12,8 @@
 
   <a href="https://github.com/GustaTZ">
    <!--<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustaTZ&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> -->
-       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustaTZ&langs_count=8&count_private=false&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustaTZ&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>   
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustaTZ&langs_count=8&count_private=false&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/>
 </div>
   
 
