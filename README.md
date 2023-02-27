@@ -1,7 +1,7 @@
 ### Opa!! Eu sou o Gustavo Torres
 
 - 🔭 DEV FRONT-END.
-- 👨‍🎓 Estudando Java, C e Flutter
+- 👨‍🎓 Estudando Banco de Dados
 - 📫 Contate-me no email: gu.torresalmeida@gmail.com
 - 😄 Pronomes: Ele/Dele
 
