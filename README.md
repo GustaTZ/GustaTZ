@@ -1,7 +1,7 @@
 ### Opa!! Eu sou o Gustavo Torres
 
 - 🔭 DEV FRONT-END.
-- 👨‍🎓 Estudando Banco de Dados
+- 👨‍🎓 Estudando Python e JavaScript
 - 📫 Contate-me no email: gu.torresalmeida@gmail.com
 - 😄 Pronomes: Ele/Dele
 
