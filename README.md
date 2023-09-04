@@ -12,6 +12,7 @@
    <!--<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustaTZ&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> -->  
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustaTZ&langs_count=8&count_private=false&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117"/>
 </div>
+<p align="center"><img src="https://profile-counter.glitch.me/{GustaTZ}/count.svg" alt="GustaTZ :: Contador" /></p>
 
 
 <div style="display: inline_block" ><br>
@@ -36,6 +37,4 @@
   <a href = "mailto:gu.torresalmeida@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gustavo-torres-20a159234/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
-
-<p align="center"><img src="https://profile-counter.glitch.me/{GustaTZ}/count.svg" alt="GustaTZ :: Visitor's Count" /></p>
 
