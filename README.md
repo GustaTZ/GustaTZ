@@ -29,7 +29,7 @@
   <img align="center" alt="Gusta-Dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
   <img align="center" alt="Gusta-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
     </p>
-  <img align="right" alt="Gusta-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/899845555730120735/986332188901519400/download20220602151135.png">
+  <!--<img align="right" alt="Gusta-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/899845555730120735/986332188901519400/download20220602151135.png"> -->
 </div>
 
  ##
