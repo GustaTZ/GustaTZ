@@ -6,7 +6,6 @@
 - 😄 Pronomes: Ele/Dele
 
 <h4 align="center">Visitor's count :eyes:</h4>
-<p align="center"><img src="https://profile-counter.glitch.me/{GustaTZ}/count.svg" alt="GustaTZ :: Visitor's Count" /></p>
 <div align="center">
 
 
@@ -14,7 +13,7 @@
    <!--<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustaTZ&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> -->  
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustaTZ&langs_count=8&count_private=false&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117"/>
 </div>
-  
+<p align="center"><img src="https://profile-counter.glitch.me/{GustaTZ}/count.svg" alt="GustaTZ :: Visitor's Count" /></p>
 
 
 <div style="display: inline_block" ><br>
