@@ -28,7 +28,7 @@
     <img align="right" alt="Gusta-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/899845555730120735/986332188901519400/download20220602151135.png">
 </div>
           
-<div>
+<div align="center">
   <a href="https://www.instagram.com/iamgutorres/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:gu.torresalmeida@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gustavo-torres-20a159234/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
