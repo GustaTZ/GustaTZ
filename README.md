@@ -25,7 +25,7 @@
   <img align="center" alt="Gusta-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="Gusta-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
     </p>
-    <img align="right" alt="Gusta-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/899845555730120735/986332188901519400/download20220602151135.png">
+    <img align="right" alt="Gusta-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/899845555730120735/986332188901519400/download20220602151135.png"><br>
 </div>
           
 <div align="center">
