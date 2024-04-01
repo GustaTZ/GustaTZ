@@ -1,6 +1,6 @@
 ### Opa!! Eu sou o Gustavo Torres
 
-- 🔭 DEV FRONT-END.
+- 🔭 DEV FULLSTACK.
 - 👨‍🎓 Estudando Python e JavaScript
 - 📫 Contate-me no email: gu.torresalmeida@gmail.com
 - 😄 Pronomes: Ele/Dele
